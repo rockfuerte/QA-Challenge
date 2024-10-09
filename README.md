@@ -1,4 +1,5 @@
 Bug Reports - Paylocity Benefits Dashboard
+
 This repository contains detailed bug reports for the Paylocity Benefits Dashboard, focusing on issues identified in both the User Interface (UI) and API. The reports provide an in-depth analysis of functionality gaps, UI inconsistencies, and API-related issues, along with potential improvement suggestions to enhance the overall product quality and user experience.
 
 Contents
